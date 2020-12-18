@@ -20,14 +20,14 @@ requests==2.23.0
 
 ```
 cd get_data
-python web_crawing.py
+python web_crawling.py
 ```
 
 or
 
 ```
 cd get_data
-python3 web_crawing.py
+python3 web_crawling.py
 ```
 
 ## Data Analyze
