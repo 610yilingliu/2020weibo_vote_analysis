@@ -118,6 +118,14 @@ def main():
         star_votes = get_votes(stars_html)
         if star_votes is not None:
             star_votes.to_csv("./star_data/" + star_fname)
+
+        all_fname = 'all-' + t + '.csv'
+        print("Writing current data to ./2020_data/" + all_fname)
+        all_html = get_html("https://huodong.weibo.com/netchina2020/people?sub_rank")
+        all_votes = get_votes(all_html)
+        if all_votes is not None:
+            all_votes.to_csv('./2020_data/' + all_fname)
+
         time.sleep(1200)
 
         
