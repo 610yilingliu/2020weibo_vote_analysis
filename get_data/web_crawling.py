@@ -16,7 +16,7 @@ def time_helper(seperator = '_', to_sec = False):
 class Logger(object):
     def __init__(self, filename, stream=sys.stdout):
 	    self.terminal = stream
-	    self.log = open(filename, 'a')
+	    self.log = open(filename, 'a', encoding = 'utf-8')
 
     def write(self, message):
 	    self.terminal.write(message)
@@ -48,10 +48,11 @@ def get_votes(html):
     :rtype data_df: Pandas DataFrame
     """
     if not html:
-        return l
+        return None
     soup = BeautifulSoup(html,'html.parser')
     table = soup.find('ul')
     sources = table.find_all('dl')
+
 
     def extractor(source):
         source_raw = source.prettify()
@@ -69,6 +70,16 @@ def get_votes(html):
         return rank, name, vote
     
     ranks, names, votes = [], [], []
+
+    kq = soup.find(class_ = "kq_list_1")
+    if kq:
+        ranks.append(1)
+        n = kq.find(class_ = "txt").get_text()
+        v_soup = kq.find(class_ = "num")
+        v_uncleaned = v_soup.get_text()
+        v = int(v_uncleaned.replace('票', '').replace(',', ''))
+        names.append(n)
+        votes.append(v)
 
     for source in sources:
         single_data = extractor(source)
