@@ -2,6 +2,7 @@ import requests
 import time
 import sys
 import pandas as pd
+import os
 from bs4 import BeautifulSoup
 
 def time_helper(seperator = '_', to_sec = False):
@@ -102,6 +103,8 @@ def main():
     :export: multiple csv files
     """
     logname = time_helper()
+    if not os.path.exists('./logs'):
+        os.mkdir('./logs')
     sys.stdout = Logger('./logs/' + logname + '.log')
     while True:
         t = time_helper()
