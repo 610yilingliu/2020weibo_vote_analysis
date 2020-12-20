@@ -19,4 +19,4 @@ while True:
     subprocess.call(add_git)
     subprocess.call(commit_git)
     subprocess.call(push_git)
-    time.sleep(3600)
+    time.sleep(60)
