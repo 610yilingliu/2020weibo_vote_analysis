@@ -39,7 +39,7 @@ sys.stdout = Logger('./update_log/' + update_time + '.log')
 while True:
     for cmd in [add_git, commit_git, push_git]:
         curmsg = subprocess.run(cmd, capture_output= True)
-        print(curmsg.stdout)
+        print(str(curmsg.stdout, encoding = 'utf-8'))
     nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() + sleep_time))
     print("Current update finished, next update will be in " + nxt_time + '\n\n')
     time.sleep(sleep_time)
