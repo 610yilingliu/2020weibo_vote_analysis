@@ -25,21 +25,26 @@ class Logger(object):
 	    pass
 
 
-add_git = "git add ."
-update_time = time_helper('-')
-commit_git = "git commit -m \" auto update " + update_time + "\""
-push_git = "git push origin main"
+def main():
+    add_git = "git add ."
+    update_time = time_helper('-')
+    commit_git = "git commit -m \" auto update " + update_time + "\""
+    push_git = "git push origin main"
 
-sleep_time = 3600
+    sleep_time = 3600
 
-if not os.path.exists('./update_log'):
-    os.mkdir('./update_log')
-sys.stdout = Logger('./update_log/' + update_time + '.log')
+    if not os.path.exists('./update_log'):
+        os.mkdir('./update_log')
+    sys.stdout = Logger('./update_log/' + update_time + '.log')
 
-while True:
-    for cmd in [add_git, commit_git, push_git]:
-        curmsg = subprocess.run(cmd, capture_output= True)
-        print(str(curmsg.stdout, encoding = 'utf-8'))
-    nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() + sleep_time))
-    print("Current update finished, next update will be in " + nxt_time + '\n\n')
-    time.sleep(sleep_time)
+    while True:
+        for cmd in [add_git, commit_git, push_git]:
+            curmsg = subprocess.run(cmd, capture_output= True)
+            output_str = str(curmsg.stdout, encoding = 'utf-8')
+            if output_str:
+                print(output_str)
+        nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() + sleep_time))
+        print("Current update finished, next update will be in " + nxt_time + '\n\n')
+        time.sleep(sleep_time)
+
+main()
