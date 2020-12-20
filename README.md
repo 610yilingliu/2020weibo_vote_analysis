@@ -7,13 +7,19 @@
 
  3.7.1
 
-**libs**
+### web_crawling.py
 
 beautifulsoup4==4.9.3
 
 pandas==0.25.3
 
 requests==2.23.0
+
+### analyzer.ipynb
+
+pandas==0.25.3
+
+matplotlib==3.1.1
 
 ## Web Crawling
 
