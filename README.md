@@ -32,4 +32,15 @@ python3 web_crawling.py
 
 ## Data Analyze
 
-Remain to be done
+use Jupyter Notebook to run `./data_analyze/analyzer.ipynb` to see the result
+
+## Auto update to Github
+
+```
+python autoupdater.py
+```
+
+## Tips
+
+- You can also merge `web_crawling.py` and `autoupdater.py` to run all command at once.
+- All important functions are commented, see the input type and usage inside `.py` and `.ipynb` files
