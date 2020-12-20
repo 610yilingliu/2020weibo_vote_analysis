@@ -17,14 +17,15 @@ def time_helper(seperator = '_', to_sec = False):
 class Logger(object):
     def __init__(self, filename, stream=sys.stdout):
 	    self.terminal = stream
-	    self.log = open(filename, 'a', encoding = 'utf-8')
+	    self.log = open(filename, "wb", buffering=0)
 
-    def write(self, message):
-	    self.terminal.write(message)
-	    self.log.write(message)
+    def write(self, *message):
+        message = ",".join([str(it) for it in message])
+        self.terminal.write(str(message))
+        self.log.write(str(message).encode('utf-8'))
 
     def flush(self):
-	    pass
+        pass
 
 def get_html(url):
     """
@@ -128,8 +129,8 @@ def main():
         all_votes = get_votes(all_html)
         if all_votes is not None:
             all_votes.to_csv('./2020_data/' + all_fname)
-
-        time.sleep(1200)
+        # not 1200 due to delay
+        time.sleep(1198)
 
         
 
