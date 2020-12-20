@@ -19,8 +19,8 @@ class Logger(object):
 
     def write(self, *message):
         message = ",".join([str(it) for it in message])
-        self.terminal.write(str(message) + "\n")
-        self.log.write(str(message).encode('utf-8') + b"\n")
+        self.terminal.write(str(message))
+        self.log.write(str(message).encode('utf-8'))
 
     def flush(self):
         pass
