@@ -15,15 +15,14 @@ def time_helper(seperator = '_', to_sec = False):
 class Logger(object):
     def __init__(self, filename, stream=sys.stdout):
 	    self.terminal = stream
-	    self.log = open(filename, 'a', encoding = 'utf-8')
+	    self.log = open(filename, "wb", buffering=0)
 
     def write(self, message):
 	    self.terminal.write(message)
 	    self.log.write(message)
 
     def flush(self):
-        self.terminal.flush()
-        self.log.flush()
+        pass
 
 
 def main():
