@@ -1,5 +1,7 @@
 import subprocess
 import time
+import sys
+import os
 
 def time_helper(seperator = '_', to_sec = False):
     """
@@ -10,15 +12,34 @@ def time_helper(seperator = '_', to_sec = False):
         return time.strftime("%Y" + seperator + "%m" + seperator + "%d" + seperator + "%H" + seperator + "%M" + seperator + "%S", time.localtime()) 
     return time.strftime("%Y" + seperator + "%m" + seperator + "%d" + seperator + "%H" + seperator + "%M", time.localtime()) 
 
+class Logger(object):
+    def __init__(self, filename, stream=sys.stdout):
+	    self.terminal = stream
+	    self.log = open(filename, 'a', encoding = 'utf-8')
+
+    def write(self, message):
+	    self.terminal.write(message)
+	    self.log.write(message)
+
+    def flush(self):
+	    pass
+
+
 add_git = "git add ."
 update_time = time_helper('-')
 commit_git = "git commit -m \" auto update " + update_time + "\""
 push_git = "git push origin main"
 
-sleep_time = 60
+sleep_time = 3600
+
+if not os.path.exists('./update_logs'):
+    os.mkdir('./update_log')
+sys.stdout = Logger('./update_log/' + update_time + '.log')
+
 while True:
     subprocess.call(add_git)
     subprocess.call(commit_git)
     subprocess.call(push_git)
-    print("Current update finished, next update will be in ")
+    nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime() + sleep_time)
+    print("Current update finished, next update will be in " + nxt_time + '\n\n')
     time.sleep(sleep_time)
