@@ -108,6 +108,7 @@ def main():
         os.mkdir('./logs')
     sys.stdout = Logger('./logs/' + logname + '.log')
     while True:
+        start_time = time.time()
         t = time_helper()
         game_fname = 'game-' + t + '.csv'
         print("Writing current data to ./game_data/" + game_fname )
@@ -129,8 +130,9 @@ def main():
         all_votes = get_votes(all_html)
         if all_votes is not None:
             all_votes.to_csv('./2020_data/' + all_fname)
-        # not 1200 due to delay
-        time.sleep(1198)
+        finish_time = time.time()
+        delay = finish_time - start_time
+        time.sleep(1200 - delay)
 
         
 
