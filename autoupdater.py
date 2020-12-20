@@ -18,8 +18,9 @@ class Logger(object):
 	    self.log = open(filename, "wb", buffering=0)
 
     def write(self, *message):
-	    self.terminal.write(str(message).encode('utf-8'))
-	    self.log.write(str(message).encode('utf-8'))
+        message = ",".join([str(it) for it in message])
+        self.terminal.write(str(message) + "\n")
+        self.log.write(str(message).encode('utf-8') + b"\n")
 
     def flush(self):
         pass
