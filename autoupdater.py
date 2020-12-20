@@ -17,7 +17,7 @@ class Logger(object):
 	    self.terminal = stream
 	    self.log = open(filename, "wb", buffering=0)
 
-    def write(self, message):
+    def write(self, *message):
 	    self.terminal.write(str(message).encode('utf-8'))
 	    self.log.write(str(message).encode('utf-8'))
 
