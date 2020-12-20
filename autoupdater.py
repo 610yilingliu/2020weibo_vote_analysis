@@ -32,7 +32,7 @@ push_git = "git push origin main"
 
 sleep_time = 3600
 
-if not os.path.exists('./update_logs'):
+if not os.path.exists('./update_log'):
     os.mkdir('./update_log')
 sys.stdout = Logger('./update_log/' + update_time + '.log')
 
@@ -40,6 +40,6 @@ while True:
     subprocess.call(add_git)
     subprocess.call(commit_git)
     subprocess.call(push_git)
-    nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime() + sleep_time)
+    nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() + sleep_time))
     print("Current update finished, next update will be in " + nxt_time + '\n\n')
     time.sleep(sleep_time)
