@@ -15,8 +15,10 @@ update_time = time_helper('-')
 commit_git = "git commit -m \" auto update " + update_time + "\""
 push_git = "git push origin main"
 
+sleep_time = 60
 while True:
     subprocess.call(add_git)
     subprocess.call(commit_git)
     subprocess.call(push_git)
-    time.sleep(60)
+    print("Current update finished, next update will be in ")
+    time.sleep(sleep_time)
