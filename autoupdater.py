@@ -37,9 +37,9 @@ if not os.path.exists('./update_log'):
 sys.stdout = Logger('./update_log/' + update_time + '.log')
 
 while True:
-    subprocess.call(add_git)
-    subprocess.call(commit_git)
-    subprocess.call(push_git)
+    for cmd in [add_git, commit_git, push_git]:
+        curmsg = subprocess.run(cmd, capture_output= True)
+        print(curmsg)
     nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() + sleep_time))
     print("Current update finished, next update will be in " + nxt_time + '\n\n')
     time.sleep(sleep_time)
