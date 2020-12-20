@@ -45,7 +45,7 @@ def main():
             if output_str:
                 print(output_str)
         nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time() + sleep_time))
-        print("Current update finished, next update will be in " + nxt_time + '\n\n')
+        print("Current update finished, next update will be " + nxt_time + '\n\n')
         time.sleep(sleep_time)
 
 main()

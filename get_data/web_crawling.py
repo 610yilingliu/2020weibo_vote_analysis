@@ -103,6 +103,7 @@ def main():
     :type pd_dataframe: Pandas DataFrame
     :export: multiple csv files
     """
+    sleep_t = 1200
     logname = time_helper()
     if not os.path.exists('./logs'):
         os.mkdir('./logs')
@@ -130,9 +131,12 @@ def main():
         all_votes = get_votes(all_html)
         if all_votes is not None:
             all_votes.to_csv('./2020_data/' + all_fname)
+            
+        nxt_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time + sleep_t))
+        print("Current fetch finished. Next fetch will be " + nxt_time + '\n')
         finish_time = time.time()
         delay = finish_time - start_time
-        time.sleep(1200 - delay)
+        time.sleep(sleep_t - delay)
 
         
 
