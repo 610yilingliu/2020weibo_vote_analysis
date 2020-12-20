@@ -12,7 +12,7 @@ def time_helper(seperator = '_', to_sec = False):
 
 add_git = "git add ."
 update_time = time_helper('-')
-commit_git = "git commit -m \" auto update " + "update_time\""
+commit_git = "git commit -m \" auto update " + update_time + "\""
 push_git = "git push origin main"
 
 while True:
