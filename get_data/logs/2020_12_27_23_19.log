@@ -368,3 +368,8 @@ Writing current data to ./star_data/star-2020_12_28_23_39.csv
 Writing current data to ./2020_data/all-2020_12_28_23_39.csv
 Current fetch finished. Next fetch will be 2020-12-28 23:59:49
 
+Writing current data to ./game_data/game-2020_12_28_23_59.csv
+Writing current data to ./star_data/star-2020_12_28_23_59.csv
+Writing current data to ./2020_data/all-2020_12_28_23_59.csv
+Current fetch finished. Next fetch will be 2020-12-29 00:19:49
+
