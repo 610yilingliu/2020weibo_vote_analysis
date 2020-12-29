@@ -50,3 +50,7 @@ python autoupdater.py
 
 - You can also merge `web_crawling.py` and `autoupdater.py` to run all command at once.
 - All important functions are commented, see the input type and usage inside `.py` and `.ipynb` files
+
+## Report
+
+Will be available after 2021.1.7
