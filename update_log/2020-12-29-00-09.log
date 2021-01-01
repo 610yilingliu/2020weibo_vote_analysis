@@ -1,0 +1,1481 @@
+[main ba7d58d]  auto update 2020-12-29-00-09
+ 5 files changed, 39 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_28_23_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_28_23_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_28_23_59.csv
+ create mode 100644 update_log/2020-12-29-00-09.log
+
+Current update finished, next update will be 2020-12-29 01:09:37
+
+
+[main f4f04f2]  auto update 2020-12-29-00-09
+ 10 files changed, 107 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_00_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_00_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_00_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_00_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_00_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_00_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_00_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_00_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_00_59.csv
+
+Current update finished, next update will be 2020-12-29 02:09:44
+
+
+[main 18ea3b6]  auto update 2020-12-29-00-09
+ 10 files changed, 117 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_01_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_01_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_01_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_01_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_01_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_01_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_01_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_01_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_01_59.csv
+
+Current update finished, next update will be 2020-12-29 03:09:51
+
+
+[main 35b42f8]  auto update 2020-12-29-00-09
+ 10 files changed, 117 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_02_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_02_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_02_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_02_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_02_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_02_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_02_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_02_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_02_59.csv
+
+Current update finished, next update will be 2020-12-29 04:09:58
+
+
+[main 7dc782c]  auto update 2020-12-29-00-09
+ 10 files changed, 132 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_03_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_03_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_03_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_03_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_03_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_03_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_03_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_03_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_03_59.csv
+
+Current update finished, next update will be 2020-12-29 05:10:03
+
+
+[main 711100c]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_04_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_04_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_04_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_04_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_04_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_04_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_04_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_04_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_04_59.csv
+
+Current update finished, next update will be 2020-12-29 06:10:09
+
+
+[main a090b1f]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_05_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_05_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_05_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_05_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_05_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_05_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_05_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_05_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_05_59.csv
+
+Current update finished, next update will be 2020-12-29 07:10:15
+
+
+[main f455272]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_06_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_06_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_06_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_06_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_06_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_06_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_06_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_06_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_06_59.csv
+
+Current update finished, next update will be 2020-12-29 08:10:20
+
+
+[main 0f38c97]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_07_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_07_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_07_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_07_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_07_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_07_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_07_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_07_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_07_59.csv
+
+Current update finished, next update will be 2020-12-29 09:10:25
+
+
+[main 4a54a43]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_08_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_08_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_08_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_08_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_08_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_08_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_08_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_08_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_08_59.csv
+
+Current update finished, next update will be 2020-12-29 10:10:32
+
+
+[main cc2ed73]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_09_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_09_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_09_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_09_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_09_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_09_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_09_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_09_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_09_59.csv
+
+Current update finished, next update will be 2020-12-29 11:10:56
+
+
+[main a84b869]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_10_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_10_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_10_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_10_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_10_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_10_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_10_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_10_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_10_59.csv
+
+Current update finished, next update will be 2020-12-29 12:11:02
+
+
+[main 089d67a]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_11_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_11_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_11_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_11_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_11_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_11_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_11_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_11_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_11_59.csv
+
+Current update finished, next update will be 2020-12-29 13:11:12
+
+
+[main 1af2338]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_12_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_12_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_12_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_12_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_12_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_12_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_12_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_12_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_12_59.csv
+
+Current update finished, next update will be 2020-12-29 14:11:17
+
+
+[main 21e65a7]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_13_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_13_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_13_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_13_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_13_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_13_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_13_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_13_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_13_59.csv
+
+Current update finished, next update will be 2020-12-29 15:11:24
+
+
+[main c614fd9]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_14_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_14_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_14_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_14_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_14_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_14_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_14_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_14_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_14_59.csv
+
+Current update finished, next update will be 2020-12-29 16:11:34
+
+
+[main e41247f]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_15_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_15_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_15_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_15_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_15_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_15_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_15_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_15_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_15_59.csv
+
+Current update finished, next update will be 2020-12-29 17:11:40
+
+
+[main 53733cd]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_16_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_16_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_16_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_16_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_16_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_16_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_16_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_16_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_16_59.csv
+
+Current update finished, next update will be 2020-12-29 18:11:46
+
+
+[main 57b3389]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_17_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_17_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_17_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_17_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_17_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_17_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_17_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_17_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_17_59.csv
+
+Current update finished, next update will be 2020-12-29 19:11:52
+
+
+[main 4696c96]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_18_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_18_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_18_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_18_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_18_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_18_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_18_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_18_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_18_59.csv
+
+Current update finished, next update will be 2020-12-29 20:11:58
+
+
+[main 46d0a76]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_19_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_19_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_19_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_19_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_19_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_19_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_19_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_19_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_19_59.csv
+
+Current update finished, next update will be 2020-12-29 21:12:04
+
+
+[main c93f674]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_20_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_20_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_20_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_20_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_20_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_20_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_20_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_20_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_20_59.csv
+
+Current update finished, next update will be 2020-12-29 22:12:11
+
+
+[main 16f3616]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_21_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_21_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_21_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_21_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_21_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_21_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_21_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_21_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_21_59.csv
+
+Current update finished, next update will be 2020-12-29 23:12:18
+
+
+[main 678c2c2]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_29_22_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_22_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_22_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_22_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_22_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_22_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_22_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_22_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_22_59.csv
+
+Current update finished, next update will be 2020-12-30 00:12:32
+
+
+[main 54f4c3d]  auto update 2020-12-29-00-09
+ 10 files changed, 107 insertions(+), 1 deletion(-)
+ create mode 100644 get_data/2020_data/all-2020_12_29_23_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_23_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_29_23_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_23_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_23_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_29_23_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_23_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_23_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_29_23_59.csv
+
+Current update finished, next update will be 2020-12-30 01:12:39
+
+
+[main 68dff24]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_00_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_00_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_00_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_00_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_00_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_00_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_00_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_00_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_00_59.csv
+
+Current update finished, next update will be 2020-12-30 02:12:45
+
+
+[main 4bed415]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_01_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_01_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_01_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_01_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_01_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_01_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_01_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_01_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_01_59.csv
+
+Current update finished, next update will be 2020-12-30 03:12:50
+
+
+[main ff4b140]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_02_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_02_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_02_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_02_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_02_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_02_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_02_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_02_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_02_59.csv
+
+Current update finished, next update will be 2020-12-30 04:12:56
+
+
+[main 90e10ef]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_03_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_03_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_03_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_03_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_03_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_03_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_03_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_03_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_03_59.csv
+
+Current update finished, next update will be 2020-12-30 05:13:02
+
+
+[main 500d7fa]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_04_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_04_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_04_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_04_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_04_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_04_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_04_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_04_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_04_59.csv
+
+Current update finished, next update will be 2020-12-30 06:13:07
+
+
+[main 65e6284]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_05_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_05_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_05_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_05_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_05_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_05_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_05_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_05_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_05_59.csv
+
+Current update finished, next update will be 2020-12-30 07:13:13
+
+
+[main 7a5470f]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_06_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_06_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_06_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_06_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_06_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_06_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_06_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_06_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_06_59.csv
+
+Current update finished, next update will be 2020-12-30 08:13:18
+
+
+[main e16d27a]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_07_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_07_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_07_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_07_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_07_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_07_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_07_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_07_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_07_59.csv
+
+Current update finished, next update will be 2020-12-30 09:13:24
+
+
+[main e89b6b0]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_08_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_08_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_08_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_08_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_08_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_08_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_08_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_08_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_08_59.csv
+
+Current update finished, next update will be 2020-12-30 10:13:31
+
+
+[main 963a167]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_09_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_09_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_09_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_09_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_09_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_09_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_09_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_09_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_09_59.csv
+
+Current update finished, next update will be 2020-12-30 11:13:39
+
+
+[main 10315e3]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_10_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_10_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_10_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_10_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_10_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_10_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_10_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_10_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_10_59.csv
+
+Current update finished, next update will be 2020-12-30 12:13:44
+
+
+[main 93b524d]  auto update 2020-12-29-00-09
+ 10 files changed, 120 insertions(+), 18 deletions(-)
+ create mode 100644 get_data/2020_data/all-2020_12_30_11_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_11_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_11_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_11_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_11_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_11_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_11_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_11_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_11_59.csv
+
+Current update finished, next update will be 2020-12-30 13:13:50
+
+
+[main 9485bcb]  auto update 2020-12-29-00-09
+ 10 files changed, 459 insertions(+), 72 deletions(-)
+ create mode 100644 get_data/2020_data/all-2020_12_30_12_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_12_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_12_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_12_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_12_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_12_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_12_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_12_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_12_59.csv
+
+Current update finished, next update will be 2020-12-30 14:14:01
+
+
+[main f9083de]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_13_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_13_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_13_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_13_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_13_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_13_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_13_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_13_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_13_59.csv
+
+Current update finished, next update will be 2020-12-30 15:14:08
+
+
+[main 3769bfd]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_14_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_14_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_14_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_14_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_14_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_14_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_14_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_14_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_14_59.csv
+
+Current update finished, next update will be 2020-12-30 16:14:16
+
+
+[main a0b5e0e]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_15_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_15_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_15_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_15_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_15_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_15_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_15_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_15_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_15_59.csv
+
+Current update finished, next update will be 2020-12-30 17:14:22
+
+
+[main 8150429]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_16_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_16_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_16_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_16_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_16_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_16_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_16_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_16_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_16_59.csv
+
+Current update finished, next update will be 2020-12-30 18:14:27
+
+
+[main ee3733b]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_17_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_17_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_17_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_17_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_17_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_17_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_17_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_17_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_17_59.csv
+
+Current update finished, next update will be 2020-12-30 19:14:33
+
+
+[main 8bdeef7]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_18_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_18_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_18_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_18_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_18_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_18_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_18_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_18_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_18_59.csv
+
+Current update finished, next update will be 2020-12-30 20:14:40
+
+
+[main 4ade385]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_19_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_19_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_19_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_19_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_19_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_19_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_19_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_19_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_19_59.csv
+
+Current update finished, next update will be 2020-12-30 21:14:48
+
+
+[main 0ebca22]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_20_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_20_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_20_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_20_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_20_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_20_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_20_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_20_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_20_59.csv
+
+Current update finished, next update will be 2020-12-30 22:14:56
+
+
+[main 20b48c6]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_21_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_21_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_21_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_21_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_21_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_21_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_21_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_21_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_21_59.csv
+
+Current update finished, next update will be 2020-12-30 23:15:04
+
+
+[main 269ef6b]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_22_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_22_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_22_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_22_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_22_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_22_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_22_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_22_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_22_59.csv
+
+Current update finished, next update will be 2020-12-31 00:15:14
+
+
+[main 4fd4259]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_30_23_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_23_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_30_23_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_23_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_23_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_30_23_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_23_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_23_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_30_23_59.csv
+
+Current update finished, next update will be 2020-12-31 01:15:26
+
+
+[main 0f9559d]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_00_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_00_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_00_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_00_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_00_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_00_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_00_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_00_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_00_59.csv
+
+Current update finished, next update will be 2020-12-31 02:15:33
+
+
+[main 5f91860]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_01_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_01_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_01_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_01_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_01_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_01_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_01_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_01_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_01_59.csv
+
+Current update finished, next update will be 2020-12-31 03:15:39
+
+
+[main ed0389f]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_02_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_02_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_02_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_02_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_02_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_02_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_02_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_02_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_02_59.csv
+
+Current update finished, next update will be 2020-12-31 04:15:45
+
+
+[main 5c49925]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_03_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_03_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_03_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_03_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_03_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_03_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_03_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_03_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_03_59.csv
+
+Current update finished, next update will be 2020-12-31 05:15:51
+
+
+[main dade032]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_04_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_04_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_04_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_04_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_04_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_04_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_04_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_04_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_04_59.csv
+
+Current update finished, next update will be 2020-12-31 06:15:57
+
+
+[main 67ae7c6]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_05_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_05_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_05_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_05_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_05_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_05_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_05_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_05_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_05_59.csv
+
+Current update finished, next update will be 2020-12-31 07:16:03
+
+
+[main c610e30]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_06_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_06_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_06_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_06_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_06_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_06_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_06_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_06_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_06_59.csv
+
+Current update finished, next update will be 2020-12-31 08:16:09
+
+
+[main fe72ebe]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_07_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_07_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_07_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_07_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_07_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_07_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_07_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_07_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_07_59.csv
+
+Current update finished, next update will be 2020-12-31 09:16:14
+
+
+[main 98d2a46]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_08_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_08_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_08_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_08_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_08_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_08_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_08_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_08_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_08_59.csv
+
+Current update finished, next update will be 2020-12-31 10:16:23
+
+
+[main 12cd6d1]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_09_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_09_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_09_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_09_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_09_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_09_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_09_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_09_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_09_59.csv
+
+Current update finished, next update will be 2020-12-31 11:16:29
+
+
+[main eda849e]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_10_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_10_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_10_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_10_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_10_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_10_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_10_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_10_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_10_59.csv
+
+Current update finished, next update will be 2020-12-31 12:16:35
+
+
+[main 9c62198]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_11_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_11_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_11_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_11_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_11_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_11_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_11_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_11_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_11_59.csv
+
+Current update finished, next update will be 2020-12-31 13:16:43
+
+
+[main 150853b]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_12_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_12_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_12_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_12_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_12_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_12_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_12_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_12_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_12_59.csv
+
+Current update finished, next update will be 2020-12-31 14:16:49
+
+
+[main 4a3836d]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_13_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_13_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_13_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_13_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_13_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_13_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_13_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_13_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_13_59.csv
+
+Current update finished, next update will be 2020-12-31 15:16:54
+
+
+[main e257aa6]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_14_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_14_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_14_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_14_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_14_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_14_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_14_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_14_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_14_59.csv
+
+Current update finished, next update will be 2020-12-31 16:17:02
+
+
+[main 11f6793]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_15_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_15_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_15_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_15_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_15_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_15_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_15_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_15_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_15_59.csv
+
+Current update finished, next update will be 2020-12-31 17:17:08
+
+
+[main 6e1493b]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_16_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_16_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_16_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_16_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_16_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_16_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_16_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_16_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_16_59.csv
+
+Current update finished, next update will be 2020-12-31 18:17:21
+
+
+[main 16708cb]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_17_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_17_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_17_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_17_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_17_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_17_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_17_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_17_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_17_59.csv
+
+Current update finished, next update will be 2020-12-31 19:17:27
+
+
+[main f64bcff]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_18_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_18_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_18_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_18_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_18_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_18_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_18_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_18_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_18_59.csv
+
+Current update finished, next update will be 2020-12-31 20:17:33
+
+
+[main 60aacdf]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_19_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_19_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_19_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_19_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_19_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_19_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_19_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_19_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_19_59.csv
+
+Current update finished, next update will be 2020-12-31 21:17:40
+
+
+[main 7cbb70e]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_20_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_20_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_20_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_20_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_20_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_20_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_20_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_20_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_20_59.csv
+
+Current update finished, next update will be 2020-12-31 22:18:29
+
+
+[main 4d53afe]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_21_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_21_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_21_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_21_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_21_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_21_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_21_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_21_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_21_59.csv
+
+Current update finished, next update will be 2020-12-31 23:18:37
+
+
+[main 6ceb220]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_22_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_22_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_22_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_22_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_22_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_22_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_22_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_22_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_22_59.csv
+
+Current update finished, next update will be 2021-01-01 00:18:46
+
+
+[main 78d04a9]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2020_12_31_23_19.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_23_39.csv
+ create mode 100644 get_data/2020_data/all-2020_12_31_23_59.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_23_19.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_23_39.csv
+ create mode 100644 get_data/game_data/game-2020_12_31_23_59.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_23_19.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_23_39.csv
+ create mode 100644 get_data/star_data/star-2020_12_31_23_59.csv
+
+Current update finished, next update will be 2021-01-01 01:18:54
+
+
+[main 8dd65d6]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_00_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_00_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_00_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_00_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_00_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_00_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_00_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_00_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_00_59.csv
+
+Current update finished, next update will be 2021-01-01 02:19:02
+
+
+[main 6a55694]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_01_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_01_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_01_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_01_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_01_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_01_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_01_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_01_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_01_59.csv
+
+Current update finished, next update will be 2021-01-01 03:19:07
+
+
+[main c422f04]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_02_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_02_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_02_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_02_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_02_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_02_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_02_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_02_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_02_59.csv
+
+Current update finished, next update will be 2021-01-01 04:19:13
+
+
+[main 5eb87db]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_03_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_03_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_03_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_03_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_03_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_03_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_03_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_03_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_03_59.csv
+
+Current update finished, next update will be 2021-01-01 05:19:18
+
+
+[main 4c30b61]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_04_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_04_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_04_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_04_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_04_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_04_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_04_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_04_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_04_59.csv
+
+Current update finished, next update will be 2021-01-01 06:19:24
+
+
+[main 901e832]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_05_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_05_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_05_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_05_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_05_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_05_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_05_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_05_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_05_59.csv
+
+Current update finished, next update will be 2021-01-01 07:19:30
+
+
+[main 21f5d36]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_06_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_06_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_06_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_06_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_06_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_06_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_06_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_06_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_06_59.csv
+
+Current update finished, next update will be 2021-01-01 08:19:36
+
+
+[main 60bbbaa]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_07_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_07_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_07_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_07_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_07_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_07_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_07_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_07_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_07_59.csv
+
+Current update finished, next update will be 2021-01-01 09:19:41
+
+
+[main b6e4e43]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_08_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_08_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_08_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_08_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_08_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_08_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_08_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_08_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_08_59.csv
+
+Current update finished, next update will be 2021-01-01 10:19:47
+
+
+[main 0b6dde4]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_09_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_09_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_09_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_09_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_09_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_09_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_09_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_09_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_09_59.csv
+
+Current update finished, next update will be 2021-01-01 11:19:55
+
+
+[main 7bd7d75]  auto update 2020-12-29-00-09
+ 12 files changed, 136 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_10_19.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_10_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_10_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_11_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_10_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_10_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_10_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_11_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_10_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_10_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_10_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_11_19.csv
+
+Current update finished, next update will be 2021-01-01 12:20:01
+
+
+[main 4108d52]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_11_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_11_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_12_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_11_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_11_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_12_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_11_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_11_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_12_19.csv
+
+Current update finished, next update will be 2021-01-01 13:20:09
+
+
+[main f91f11e]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_12_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_12_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_13_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_12_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_12_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_13_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_12_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_12_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_13_19.csv
+
+Current update finished, next update will be 2021-01-01 14:20:17
+
+
+[main 90d63af]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_13_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_13_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_14_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_13_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_13_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_14_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_13_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_13_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_14_19.csv
+
+Current update finished, next update will be 2021-01-01 15:20:23
+
+
+[main cfbe59c]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_14_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_14_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_15_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_14_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_14_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_15_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_14_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_14_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_15_19.csv
+
+Current update finished, next update will be 2021-01-01 16:20:31
+
+
+[main f36b8fc]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_15_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_15_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_16_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_15_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_15_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_16_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_15_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_15_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_16_19.csv
+
+Current update finished, next update will be 2021-01-01 17:20:40
+
+
+[main 16ded12]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_16_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_16_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_17_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_16_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_16_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_17_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_16_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_16_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_17_19.csv
+
+Current update finished, next update will be 2021-01-01 18:20:48
+
+
+[main c30904b]  auto update 2020-12-29-00-09
+ 8 files changed, 89 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_17_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_17_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_17_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_17_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_18_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_17_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_17_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_18_19.csv
+
+Current update finished, next update will be 2021-01-01 19:20:56
+
+
+[main bc118ff]  auto update 2020-12-29-00-09
+ 8 files changed, 94 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_18_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_18_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_19_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_18_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_18_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_19_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_18_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_19_19.csv
+
+Current update finished, next update will be 2021-01-01 20:21:01
+
+
+[main e1b6f9a]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_19_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_19_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_20_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_19_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_19_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_20_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_19_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_19_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_20_19.csv
+
+Current update finished, next update will be 2021-01-01 21:21:09
+
+
+[main 92db7b2]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_20_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_20_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_21_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_20_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_20_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_21_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_20_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_20_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_21_19.csv
+
+Current update finished, next update will be 2021-01-01 22:21:15
+
+
+[main 0a6780c]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_21_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_21_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_22_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_21_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_21_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_22_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_21_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_21_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_22_19.csv
+
+Current update finished, next update will be 2021-01-01 23:21:21
+
+
+[main 7d9cc3e]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_22_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_22_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_23_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_22_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_22_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_23_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_22_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_22_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_23_19.csv
+
+Current update finished, next update will be 2021-01-02 00:21:27
+
+
+[main bde1605]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_01_23_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_01_23_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_02_00_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_23_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_01_23_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_00_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_23_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_01_23_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_00_19.csv
+
+Current update finished, next update will be 2021-01-02 01:21:39
+
+
+[main e05a66c]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_02_00_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_02_00_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_02_01_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_00_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_00_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_01_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_00_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_00_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_01_19.csv
+
+Current update finished, next update will be 2021-01-02 02:21:47
+
+
+[main 1110fbc]  auto update 2020-12-29-00-09
+ 9 files changed, 102 insertions(+)
+ create mode 100644 get_data/2020_data/all-2021_01_02_01_39.csv
+ create mode 100644 get_data/2020_data/all-2021_01_02_01_59.csv
+ create mode 100644 get_data/2020_data/all-2021_01_02_02_19.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_01_39.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_01_59.csv
+ create mode 100644 get_data/game_data/game-2021_01_02_02_19.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_01_39.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_01_59.csv
+ create mode 100644 get_data/star_data/star-2021_01_02_02_19.csv
+
+Current update finished, next update will be 2021-01-02 03:21:53
+
+
